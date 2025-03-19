@@ -12,10 +12,14 @@ This experiment involves creating and executing shell scripts in a Linux environ
 
 The scripts are edited using the `nano` text editor and executed using the `bash` command.
 
-![Screenshot 2025-03-19 095511](https://github.com/user-attachments/assets/a414b48a-0637-45bd-8f83-acbe7f6744df)
 ![Screenshot 2025-03-19 095457](https://github.com/user-attachments/assets/c75b29a9-7645-45fa-9f42-12ef21a2ace6)
+
+![Screenshot 2025-03-19 095511](https://github.com/user-attachments/assets/a414b48a-0637-45bd-8f83-acbe7f6744df)
+
 ![Screenshot 2025-03-19 095705](https://github.com/user-attachments/assets/1d2c4e25-39bb-4980-9324-9dda8796b812)
+
 ![Screenshot 2025-03-19 095624](https://github.com/user-attachments/assets/01821e59-31bd-4477-a2cd-fc9f51600646)
+
 ![Screenshot 2025-03-19 095539](https://github.com/user-attachments/assets/30166c82-5ac1-4c26-99e6-2580b980f6b2)
 
 
