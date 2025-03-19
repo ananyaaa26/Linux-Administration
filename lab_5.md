@@ -44,4 +44,16 @@ updating, and removing software using `apt-get`.
 ### **Software Management Using `apt-get`**  
 - **Update package list**  
   ```bash
-  sudo apt-get update
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get full-upgrade
+sudo apt-get -f install
+sudo apt-get install <package_name>
+sudo apt-get remove <package_name>
+sudo apt-get purge <package_name>
+sudo apt-get autoremove
+sudo apt-get clean
+sudo apt-get autoclean
+apt list --upgradable
+apt-get download <package_name>
+  
