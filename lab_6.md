@@ -1,4 +1,4 @@
-# Experiment 10:  
+# Experiment 6:  
 Create the operator1 user and confirm that it exists in the
 system. Set the password for operator1. Create the
 additional operator2 and operator3 users. Set their
